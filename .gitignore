@@ -1,0 +1,8 @@
+*.so
+*.pyc
+*.swp
+__pycache__
+
+log/
+data/modelnet40_ply_hdf5_2048/
+
