@@ -1,8 +1,10 @@
+*~
 *.so
 *.pyc
 *.swp
 __pycache__
 
+dump/
 log/
-data/modelnet40_ply_hdf5_2048/
-
+data/*
+part_seg/log/
